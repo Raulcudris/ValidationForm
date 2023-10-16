@@ -1,0 +1,2 @@
+29. Validación de formulario: validaciones y mostrando errores | React en español
+https://www.youtube.com/watch?v=SVBC6PfNups
